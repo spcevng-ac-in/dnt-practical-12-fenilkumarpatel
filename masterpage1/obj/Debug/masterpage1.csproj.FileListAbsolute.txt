@@ -1,0 +1,4 @@
+D:\DotNet\masterpage1\masterpage1\bin\masterpage1.dll
+D:\DotNet\masterpage1\masterpage1\bin\masterpage1.pdb
+D:\DotNet\masterpage1\masterpage1\obj\Debug\masterpage1.dll
+D:\DotNet\masterpage1\masterpage1\obj\Debug\masterpage1.pdb
